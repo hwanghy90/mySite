@@ -1,4 +1,4 @@
-# 💖mySite
+# ✔mySite
 + 최초 HTML CSS프로젝트
 + 기초 THML
 + 기초 CSS
