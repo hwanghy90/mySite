@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    /* body태그 안 내용을 가운데 정렬 */
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #495464;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #495464;
+    font-size: 40px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-could{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-could{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+
+}
+.container-top{
+   position: relative;
+   padding-top: 100px;
+    background-color:#e8e8e8;
+}
+.container-top h2 span{
+    text-decoration: underline;
+ }
+ .profile{
+     width: 30%;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 100px 0;
+
+ }
+ .profile p {
+     line-height: 2; 
+ }
+ .profile img{
+     width: 70%;
+ }
+ .skills{
+    padding-top: 100px;
+ }
+ .skill-row{
+     width: 50%;
+     margin: 100px auto;
+     text-align: left;
+ }
+ .skill-photo1{
+     float: left;
+     width: 25%;
+     margin-right: 30px;
+ }
+ .skill-photo2{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+.contact-me{
+    width: 40%;
+    margin: 100px auto;
+    line-height: 2; 
+}
+.contact-me .btn{
+    background-color: #495464;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    border-radius: 10px;
+}
+.bottom-container{
+    padding: 50px 0;
+    background-color: #e8e8e8;
+}
+.bottom-container a{
+    font-size: 20px;
+    margin: 0 15px;
+    color: #495464;
+}
+.bottom-container p{
+    color: #495464;
+    margin-top: 50px;
+}
